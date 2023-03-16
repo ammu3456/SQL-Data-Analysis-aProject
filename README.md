@@ -1,1 +1,1 @@
-# SQL-Data-Analysis-aProject
+# SQL-Data-Analysis-Project
